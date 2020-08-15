@@ -2,7 +2,7 @@
 A simple Tic Tac Toe game to have an overview around Python language and Pygame module!
 
 ## In-game images
-![](images/result1.png)![](images/result2.png)
+![](images/result1.png)   ![](images/result2.png)
 
 ## Using the application
 - Clone GitHub repository
