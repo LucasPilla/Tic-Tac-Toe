@@ -11,6 +11,7 @@ Leonie Kallabis created the updated graphical assets. Her and Mathias Müller-Br
 
 ## Using the application
 - Clone GitHub repository
+- (optional) create virtual environment via venv
 - Install Pygame: `pip install pygame`
 - Install rtmidi `pip install python-rtmidi`
 - Install mido `pip install mido`
