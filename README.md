@@ -1,4 +1,4 @@
-# TicTacToe-Pygame
+# TicTacToe
 A simple Tic Tac Toe game to provide an overview of the Python language and the Pygame module.
 
 ![image](https://github.com/user-attachments/assets/2c292520-9d0c-435a-bedb-16e496fc6706)
